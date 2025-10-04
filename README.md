@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Hamilton
 
-🌟 **Desarrollador Junior** | 📍 **Caracas, Venezuela** | 🎓 **23 años**
+🌟 **Desarrollador** | 📍 **Caracas, Venezuela** | 🎓 **23 años**
 
 ---
 

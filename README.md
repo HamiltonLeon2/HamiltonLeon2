@@ -21,7 +21,7 @@ Soy un apasionado desarrollador en desarrollo, siempre buscando mejorar mis habi
 
 ### Frameworks:
 - **Laravel** (en constante aprendizaje)
-- **Tailwind** (en aprendizaje)
+- **Angular** (constante aprendizaje)
 
 ---
 

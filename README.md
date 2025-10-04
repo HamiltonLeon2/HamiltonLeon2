@@ -32,6 +32,6 @@ Soy un apasionado desarrollador en desarrollo, siempre buscando mejorar mis habi
 - [Telegram](https://t.me/HamiltonLeon2)
 - [WhatsApp](https://wa.me/584241301726)
 
-📄 **[Descarga mi CV](https://drive.google.com/file/d/1lxBPKG7U6cowY32F6yQ21J8TB8qltTg4/view?usp=sharing)**
+📄 **[Descarga mi CV](https://drive.google.com/file/d/1TsfxvAlrTjaJ3fCaq1qam_P8w2H3QhIB/view?usp=drivesdk)**
 
 ¡Gracias por visitar mi perfil! 😊

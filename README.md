@@ -17,6 +17,7 @@ Soy un apasionado desarrollador en desarrollo, siempre buscando mejorar mis habi
 - **HTML**
 - **JavaScript**
 - **CSS**
+- **SQL**
 
 ### Frameworks:
 - **Laravel** (en constante aprendizaje)
